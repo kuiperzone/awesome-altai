@@ -3,17 +3,11 @@
 **#AltAI** is human friendly AI.
 
 * Research, analysis and verification of human work, not a replacement for it.
-
 * Avoidance of generative content output that humans beings should be creating themselves.
-
 * Local by default (desktop, local network, or on-device).
-
 * Not designed or intended to scale or network beyond that for individual use.
-
 * Zero telemetry, tracking and data collection.
-
 * Open source or commercial but full source available.
-
 * No artificial restrictions, nudging, manipulation or intentional deception.
 
 ## AltAI Clients
